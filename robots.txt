@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mervedigital.github.io/Pixelhome/sitemap.xml
