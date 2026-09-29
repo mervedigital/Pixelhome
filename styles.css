@@ -10,3 +10,11 @@
 /* Keep authored image dimensions as a loading hint, not a fixed display height. */
 img{height:auto}
 .hero-visual img,.project-card img,.project-hero img,.gallery img{object-fit:contain;background:var(--paper)}
+
+.language-switch{display:inline-flex;align-items:center;gap:.2rem;padding:.2rem;border:1px solid var(--line);border-radius:99px;white-space:nowrap}
+.language-switch a{min-width:2.5rem;padding:.36rem .55rem;border-radius:99px;text-align:center;font-size:.75rem;font-weight:800;line-height:1.2}
+.language-switch a[aria-current="page"]{background:var(--forest);color:var(--white)}
+.language-switch a:not([aria-current]):hover{color:var(--rust)}
+.language-switch a:focus-visible{outline:2px solid var(--rust);outline-offset:2px}
+.project-header-actions{display:flex;align-items:center;gap:1.25rem}
+@media(max-width:800px){.main-nav .language-switch{justify-self:start;margin:.65rem 1rem}.project-header-actions{gap:.55rem;font-size:.8rem}}

@@ -6,10 +6,13 @@ Mobilya ve dekorasyon markaları için Türkçe, responsive portfolyo sitesi. Be
 
 - `index.html`: ana sayfa, hizmetler, süreç ve Instagram iletişimi
 - `projects/*/index.html`: beş bağımsız proje sayfası
+- `en/index.html` ve `en/projects/*/index.html`: aynı içeriğin İngilizce sürümü; TR/EN bağlantıları karşılıklı proje sayfalarını açar
 - `styles.css` ve `app.js`: responsive arayüz ve erişilebilir mobil menü
 - `assets/images`: WebP görseller
 - `assets/videos`: optimize MP4 videolar
 - `sitemap.xml` ve `robots.txt`: arama motoru bilgileri
+
+Türkçe varsayılan sürüm `/Pixelhome/`, İngilizce sürüm `/Pixelhome/en/` adresindedir. Her iki dilin canonical ve hreflang bağlantıları sitemap ile eşleşir. Görsel ve videolar ortak `assets/` klasöründen sunulur.
 
 Bu depo kök dizinden sunulacak şekilde hazırlanmıştır. GitHub Pages proje deposu `mervedigital/Pixelhome` olarak yayımlanırsa adres `https://mervedigital.github.io/Pixelhome/` olur. Farklı depo adı veya özel alan adı kullanılırsa mutlak SEO adresleri güncellenmelidir.
 

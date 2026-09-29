@@ -1,9 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://mervedigital.github.io/Pixelhome/</loc></url>
-  <url><loc>https://mervedigital.github.io/Pixelhome/projects/yasanan-bir-konfor/</loc></url>
-  <url><loc>https://mervedigital.github.io/Pixelhome/projects/desenin-yolculugu/</loc></url>
-  <url><loc>https://mervedigital.github.io/Pixelhome/projects/isigin-karakteri/</loc></url>
-  <url><loc>https://mervedigital.github.io/Pixelhome/projects/dokunun-hikayesi/</loc></url>
-  <url><loc>https://mervedigital.github.io/Pixelhome/projects/gun-batiminda-konfor/</loc></url>
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://mervedigital.github.io/Pixelhome/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://mervedigital.github.io/Pixelhome/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mervedigital.github.io/Pixelhome/en/"/>
+  </url>
+  <url>
+    <loc>https://mervedigital.github.io/Pixelhome/en/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://mervedigital.github.io/Pixelhome/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mervedigital.github.io/Pixelhome/en/"/>
+  </url>
+  <url>
+    <loc>https://mervedigital.github.io/Pixelhome/projects/yasanan-bir-konfor/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://mervedigital.github.io/Pixelhome/projects/yasanan-bir-konfor/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mervedigital.github.io/Pixelhome/en/projects/yasanan-bir-konfor/"/>
+  </url>
+  <url>
+    <loc>https://mervedigital.github.io/Pixelhome/en/projects/yasanan-bir-konfor/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://mervedigital.github.io/Pixelhome/projects/yasanan-bir-konfor/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mervedigital.github.io/Pixelhome/en/projects/yasanan-bir-konfor/"/>
+  </url>
+  <url>
+    <loc>https://mervedigital.github.io/Pixelhome/projects/desenin-yolculugu/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://mervedigital.github.io/Pixelhome/projects/desenin-yolculugu/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mervedigital.github.io/Pixelhome/en/projects/desenin-yolculugu/"/>
+  </url>
+  <url>
+    <loc>https://mervedigital.github.io/Pixelhome/en/projects/desenin-yolculugu/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://mervedigital.github.io/Pixelhome/projects/desenin-yolculugu/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mervedigital.github.io/Pixelhome/en/projects/desenin-yolculugu/"/>
+  </url>
+  <url>
+    <loc>https://mervedigital.github.io/Pixelhome/projects/isigin-karakteri/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://mervedigital.github.io/Pixelhome/projects/isigin-karakteri/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mervedigital.github.io/Pixelhome/en/projects/isigin-karakteri/"/>
+  </url>
+  <url>
+    <loc>https://mervedigital.github.io/Pixelhome/en/projects/isigin-karakteri/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://mervedigital.github.io/Pixelhome/projects/isigin-karakteri/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mervedigital.github.io/Pixelhome/en/projects/isigin-karakteri/"/>
+  </url>
+  <url>
+    <loc>https://mervedigital.github.io/Pixelhome/projects/dokunun-hikayesi/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://mervedigital.github.io/Pixelhome/projects/dokunun-hikayesi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mervedigital.github.io/Pixelhome/en/projects/dokunun-hikayesi/"/>
+  </url>
+  <url>
+    <loc>https://mervedigital.github.io/Pixelhome/en/projects/dokunun-hikayesi/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://mervedigital.github.io/Pixelhome/projects/dokunun-hikayesi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mervedigital.github.io/Pixelhome/en/projects/dokunun-hikayesi/"/>
+  </url>
+  <url>
+    <loc>https://mervedigital.github.io/Pixelhome/projects/gun-batiminda-konfor/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://mervedigital.github.io/Pixelhome/projects/gun-batiminda-konfor/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mervedigital.github.io/Pixelhome/en/projects/gun-batiminda-konfor/"/>
+  </url>
+  <url>
+    <loc>https://mervedigital.github.io/Pixelhome/en/projects/gun-batiminda-konfor/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://mervedigital.github.io/Pixelhome/projects/gun-batiminda-konfor/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mervedigital.github.io/Pixelhome/en/projects/gun-batiminda-konfor/"/>
+  </url>
 </urlset>
